@@ -1,5 +1,7 @@
 package lib
 
+const version = "0.0.2"
+
 func Version() string {
-	return "1.0.0"
+	return version
 }
