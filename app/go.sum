@@ -1,2 +1,2 @@
-github.com/kocubinski/semver-test/lib v0.0.3 h1:2zUpF0YJxGevzf0xpAviw83cPv8E3JMfWmZ2X7599/A=
-github.com/kocubinski/semver-test/lib v0.0.3/go.mod h1:2B8VPSgBNiAieF3pwzJFf9E1jHrvTmIhU8fcGpv0z8o=
+github.com/kocubinski/semver-test/lib v1.0.0 h1:vfcyHJAxo0kSzvmqErIPXSXLi9sH56zilLsRLuBroQo=
+github.com/kocubinski/semver-test/lib v1.0.0/go.mod h1:2B8VPSgBNiAieF3pwzJFf9E1jHrvTmIhU8fcGpv0z8o=
